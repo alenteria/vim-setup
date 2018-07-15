@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/f77daa66-97d5-4dac-a7f4-2c3fa66daf9c/code/rsportz/app/controllers'
+let g:netrw_dirhist_2='/mnt/f77daa66-97d5-4dac-a7f4-2c3fa66daf9c/code/rsportz'
+let g:netrw_dirhist_3='/mnt/f77daa66-97d5-4dac-a7f4-2c3fa66daf9c/code/rsportz/app'
+let g:netrw_dirhist_4='/mnt/f77daa66-97d5-4dac-a7f4-2c3fa66daf9c/code/rsportz/app/controllers'
